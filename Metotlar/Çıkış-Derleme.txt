@@ -1,0 +1,5 @@
+﻿Derleme başladı...
+1>------ Derleme başladı: Proje: Metotlar, Yapılandırma: Debug Any CPU ------
+1>C:\Users\Merve\Desktop\cSharp\kursGün2\Metotlar\Program.cs(17,31,17,31): error CS1010: Sabitte yeni satır karakteri
+1>C:\Users\Merve\Desktop\cSharp\kursGün2\Metotlar\Program.cs(17,38,17,38): error CS1002: ; bekleniyor
+========== Oluşturma: 0 başarılı, 1 başarısız, 0 güncel, 0 atlandı ==========
