@@ -19,6 +19,7 @@ namespace Matematik
             foreach (int x in sayilar1)
             {
                 Console.WriteLine(x) ;//cevap  13,8,77 heap degişkenin yolu aktarılır oyuzden degişim var
+                Console.WriteLine(x);
             }
         }
     }
